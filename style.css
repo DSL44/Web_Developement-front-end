@@ -17,7 +17,7 @@ src:url("./fonts/Simpsonfont\ DEMO.otf");
 body{
 
 background:#0d7cc1;
-font-family:Simpsonfont;
+font-family:"Simpson", sans-serif;
 color:#ffde00;
 -webkit-text-stroke: 0.5px black;
 padding:30px;
