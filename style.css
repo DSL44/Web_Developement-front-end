@@ -6,10 +6,18 @@ box-sizing:border-box;
 
 }
 
+@font-face{
+
+font-family:"Simpson";
+
+src:url("./fonts/Simpsonfont\ DEMO.otf");
+
+}
+
 body{
 
 background:#0d7cc1;
-font-family:Simpsonfont DEMO;
+font-family:Simpsonfont;
 color:#ffde00;
 -webkit-text-stroke: 0.5px black;
 padding:30px;
