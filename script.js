@@ -4,7 +4,7 @@ document.getElementById(
 );
 
 fetch(
-"https://apisimpsons.fly.dev/api/personajes?limit=20"
+"https://apisimpsons.fly.dev/api/personajes?limit=70"
 )
 
 .then(resposta=>{
